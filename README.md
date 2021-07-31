@@ -2,7 +2,7 @@
 
 #### This programm shows the day of the week
 
-## Insalling 
+## Installing 
 
 #### git clone https://github.com/SedrakyanVahe/dayOfWeek.git
 
