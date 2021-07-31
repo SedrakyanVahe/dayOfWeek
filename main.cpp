@@ -16,13 +16,13 @@ int main(){
 
     cout << "Please insert month : "; cin >> m;
     while(m > 12){
-        cout << "Please insert the number less than 13: "; cin >> d;
+        cout << "Please insert the number less than 13: "; cin >> m;
     }
 
 
     cout << "Please insert year: "; cin >> y;
     while(y < 1900){
-        cout << "Please insert the number greater than 1900: "; cin >> d;
+        cout << "Please insert the number greater than 1900: "; cin >> y;
     }
 
     day = getWeekDay(d,m,y);
