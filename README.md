@@ -2,7 +2,7 @@
 
 #### This programm shows the day of the week
 
-## Installing 
+## Installing
 
 #### git clone https://github.com/SedrakyanVahe/dayOfWeek.git
 
@@ -18,14 +18,14 @@
 
 ```
 31/7/2021 : Saturday
- 
+
 ```
 
-## Built With 
+## Built With
 
 * c++
 
-## Author 
+## Author
 
 * Sedrakyan Vahe
 

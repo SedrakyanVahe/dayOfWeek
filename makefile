@@ -15,6 +15,3 @@ clean:
 .PHONY: test
 test:
 	./$(EXE)
-
-
-
